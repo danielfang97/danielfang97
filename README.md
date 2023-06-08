@@ -2,6 +2,8 @@
 
 PhD Student at CU Boulder studying Computer Science
 
+Advised by Dr. Chris Myers in the field of Synthetic Biology
+
 Working on [SynBioHub][sbh]
 
 [sbh]: https://github.com/SynBioHub
