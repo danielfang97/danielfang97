@@ -1,12 +1,10 @@
-# Hi I'm Daniel <img align="right" alt="peepoHey" src="peepoHey.gif" width="150px" style="margin-right: 100px" />
+# Hi I'm Daniel <img align="right" alt="peepoHey" src="peepoHey.gif" width="150px" style="margin-right: 150px; margin-bottom: 50px" />
 
 PhD Student at CU Boulder studying Computer Science
 
 Working on [SynBioHub][sbh]
 
 [sbh]: https://github.com/SynBioHub
-
-
 <!--
 **danielfang97/danielfang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
