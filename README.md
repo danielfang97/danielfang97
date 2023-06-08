@@ -1,4 +1,4 @@
-# Hi I'm Daniel <img align="right" alt="peepoHey" src="peepoHey.gif" />
+# Hi I'm Daniel <img align="right" alt="peepoHey" src="peepoHey.gif" width="150px" style="margin-right: 100px" />
 
 PhD Student at CU Boulder studying Computer Science
 
