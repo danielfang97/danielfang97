@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi I'm Daniel 👋
 
+PhD Student at CU Boulder studying Computer Science
+
+Working on [SynBioHub][sbh]
+
+[sbh]: https://github.com/SynBioHub
+
+<img align="right" alt="Bred the penguin chillin' by the fire." width="50" src="img/peepoHey.gif" />
 <!--
 **danielfang97/danielfang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
